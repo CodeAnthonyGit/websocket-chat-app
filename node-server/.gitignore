@@ -1,0 +1,7 @@
+# Node server
+node-server/node_modules
+node-server/.env
+
+# React app
+my-react-app/node_modules
+my-react-app/build
